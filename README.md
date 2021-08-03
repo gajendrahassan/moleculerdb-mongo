@@ -5,7 +5,7 @@
 MongoDB native adapter for Moleculer DB service.
 
 ## Features
-- schemaless adapter
+- schemaless adapter 
 - MongoDB driver v3.0
 
 ## Install
