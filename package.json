@@ -1,5 +1,6 @@
+
 {
-  "name": "moleculer-db-adapter-mongo",
+  "name": "moleculer-db-adapter-mongodb",
   "version": "0.4.12",
   "description": "MongoDB native adapter for Moleculer DB service.",
   "main": "index.js",
@@ -18,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/moleculerjs/moleculer-db.git"
+    "url": "https://github.com/gajendrahassan/moleculerdb-mongo.git"
   },
   "homepage": "https://github.com/moleculerjs/moleculer-db/tree/master/packages/moleculer-db-adapter-mongo#readme",
-  "author": "MoleculerJS",
+  "author": "gajendrakm",
   "license": "MIT",
   "peerDependencies": {
     "moleculer": "^0.12.0 || ^0.13.0 || ^0.14.0"
